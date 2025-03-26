@@ -10,7 +10,7 @@ importers:
     devDependencies:
       '@fontsource/poppins':
         specifier: ^5.0.8
-        version: 5.0.14
+        version: 5.2.5
       '@playwright/test':
         specifier: ^1.36.2
         version: 1.51.1
@@ -222,8 +222,8 @@ packages:
     resolution: {integrity: sha512-d9zaMRSTIKDLhctzH12MtXvJKSSUhaHcjV+2Z+GK+EEY7XKpP5yR4x+N3TAcHTcu963nIr+TMcCb4DBCYX1z6Q==}
     engines: {node: ^12.22.0 || ^14.17.0 || >=16.0.0}
 
-  '@fontsource/poppins@5.0.14':
-    resolution: {integrity: sha512-nmM1zpPo3Uh4JcGAVSQuWaZNYh2FbbwWhZ5t6hRaynmJaNTBW85d3nEh9zMmzI0HX7X5xqQVdRHeDatKpOGsnA==}
+  '@fontsource/poppins@5.2.5':
+    resolution: {integrity: sha512-1S3k45pZOz2jqGPPqKw0in3uxFwnB+d5jSU8Tp9YwH/dIJptE3jdkQbYN0QD861GtuOpn6QhPW/yKt1w7hVRBQ==}
 
   '@humanwhocodes/config-array@0.13.0':
     resolution: {integrity: sha512-DZLEEqFWQFiyK6h5YIeynKx7JlvCYWL0cImfSRXZ9l4Sg2efkFGTuFf6vzXjK1cq6IYkU+Eg/JizXw+TD2vRNw==}
@@ -1573,7 +1573,7 @@ snapshots:
 
   '@eslint/js@8.57.1': {}
 
-  '@fontsource/poppins@5.0.14': {}
+  '@fontsource/poppins@5.2.5': {}
 
   '@humanwhocodes/config-array@0.13.0':
     dependencies:
