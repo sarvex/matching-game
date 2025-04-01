@@ -34,7 +34,7 @@ importers:
         version: 10.1.1(eslint@9.23.0)
       eslint-plugin-svelte:
         specifier: ^3.0.0
-        version: 3.3.3(eslint@9.23.0)(svelte@5.25.5)
+        version: 3.4.1(eslint@9.23.0)(svelte@5.25.5)
       prettier:
         specifier: ^3.0.1
         version: 3.5.3
@@ -699,8 +699,8 @@ packages:
     peerDependencies:
       eslint: '>=7.0.0'
 
-  eslint-plugin-svelte@3.3.3:
-    resolution: {integrity: sha512-imzGqIgWbfsb/CR14d3k3M8MiVNGet+l9mjPhvo1Rm0Nxi0rNn4/eELqyR8FWlgKBMlGkOp2kshRJm0xpxNfHQ==}
+  eslint-plugin-svelte@3.4.1:
+    resolution: {integrity: sha512-wgbRwN/6FampBBiIuuLSmp4QRqmuHuexbuRJwx+kqzsxKOhakU8o8sVgGhsf/bQiZkOmWF/5Mrj2CHmVMwY+YQ==}
     engines: {node: ^18.18.0 || ^20.9.0 || >=21.1.0}
     peerDependencies:
       eslint: ^8.57.1 || ^9.0.0
@@ -1956,7 +1956,7 @@ snapshots:
     dependencies:
       eslint: 9.23.0
 
-  eslint-plugin-svelte@3.3.3(eslint@9.23.0)(svelte@5.25.5):
+  eslint-plugin-svelte@3.4.1(eslint@9.23.0)(svelte@5.25.5):
     dependencies:
       '@eslint-community/eslint-utils': 4.5.1(eslint@9.23.0)
       '@jridgewell/sourcemap-codec': 1.5.0
